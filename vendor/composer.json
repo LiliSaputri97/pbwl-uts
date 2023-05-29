@@ -1,0 +1,14 @@
+{
+    "name": "asus/pbwl_uts_lilisaputri",
+    "description": "UTS PBWL",
+    "type": "project",
+    "require": {
+        "php": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Lili Saputri",
+            "email": "lilisaputri890@gmail.com"
+        }
+    ]
+}
